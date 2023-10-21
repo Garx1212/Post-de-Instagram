@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    display: grid;
+    place-content: center;
+    background-color: rgb(136, 135, 135);
+}
+.container{
+    width: 500px;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(253, 252, 252);
+}
+.hearder{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 0px 20px ;
+}
+.hearder img{
+    width: 35px;
+    height: 35px;
+}
+.hearder text{
+    display: flow-root;
+    width:;
+}
