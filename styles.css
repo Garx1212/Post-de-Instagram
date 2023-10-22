@@ -27,6 +27,8 @@ body{
     height: 35px;
 }
 .hearder text{
-    display: flow-root;
-    width:;
+    display: flex;
+    font-size: small;
+    justify-content: flex-start;
+    
 }
