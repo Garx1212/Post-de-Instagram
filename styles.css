@@ -26,9 +26,32 @@ body{
     width: 35px;
     height: 35px;
 }
-.hearder text{
-    display: flex;
-    font-size: small;
-    justify-content: flex-start;
-    
+.hearder-text{
+   position: absolute;
+   padding: 0px 0px 0px 45px;
+    font-size: smaller;
 }
+.header-dots{
+    font-size: 3cap;
+
+}
+img{
+    width: 100%;
+    padding: 2% 0% 2% 0%;
+}
+
+.iconos{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 7px 17px 7px ;
+}
+
+p{
+    display: flex;
+    padding: 5px;
+}
+
+b{
+    padding: 5px;
+}
+
